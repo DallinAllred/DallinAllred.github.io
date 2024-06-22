@@ -31,8 +31,8 @@ url: "https://DallinAllred.github.io" # the base hostname & protocol for your si
 github_username:  DallinAllred
 
 remote_theme: pages-themes/slate
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Build settings
 # theme: minima
