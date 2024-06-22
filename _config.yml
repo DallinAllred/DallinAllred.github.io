@@ -30,6 +30,10 @@ url: "https://DallinAllred.github.io" # the base hostname & protocol for your si
 # twitter_username: jekyllrb
 github_username:  DallinAllred
 
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Build settings
 theme: minima
 plugins:
