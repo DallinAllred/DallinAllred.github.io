@@ -33,7 +33,7 @@ github_username:  DallinAllred
 
 # Build settings
 # remote_theme: pages-themes/slate
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   # - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
