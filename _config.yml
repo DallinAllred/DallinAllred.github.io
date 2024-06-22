@@ -30,14 +30,14 @@ url: "https://DallinAllred.github.io" # the base hostname & protocol for your si
 # twitter_username: jekyllrb
 github_username:  DallinAllred
 
-remote_theme: pages-themes/slate
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Build settings
-# theme: minima
+# remote_theme: pages-themes/slate
 # plugins:
-#   - jekyll-feed
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
